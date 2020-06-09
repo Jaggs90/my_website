@@ -1,0 +1,4 @@
+wb_env/
+_pycache_/
+*.sqlite3
+.idea/
